@@ -4,5 +4,5 @@ Implementation of the baseline cleaner from the paper "Efficient and Effective B
 Run the demo to see what the algorithm does to a spikey trigonometric curve with an uneven baseline. 
 
 
-![Baseline vs No Baseline](https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60)
+![Baseline vs No Baseline](basevsnobase.png)
 
